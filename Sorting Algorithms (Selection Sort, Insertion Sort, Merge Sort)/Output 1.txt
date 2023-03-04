@@ -1,0 +1,65 @@
+Test Case #1
+Size 15
+Technique: Selection, Time: 6ms
+Technique: Insertion, Time: 3ms
+Technique: Merge,	 Time: 4ms
+Test Case #2
+Size 20
+Technique: Selection, Time: 2ms
+Technique: Insertion, Time: 3ms
+Technique: Merge,	 Time: 5ms
+Test Case #3
+Size 25
+Technique: Selection, Time: 3ms
+Technique: Insertion, Time: 3ms
+Technique: Merge,	 Time: 5ms
+Test Case #4
+Size 30
+Technique: Selection, Time: 3ms
+Technique: Insertion, Time: 4ms
+Technique: Merge,	 Time: 6ms
+Test Case #5
+Size 50
+Technique: Selection, Time: 3ms
+Technique: Insertion, Time: 7ms
+Technique: Merge,	 Time: 10ms
+Test Case #6
+Size 100
+Technique: Selection, Time: 4ms
+Technique: Insertion, Time: 13ms
+Technique: Merge,	 Time: 15ms
+Test Case #7
+Size 150
+Technique: Selection, Time: 13ms
+Technique: Insertion, Time: 24ms
+Technique: Merge,	 Time: 23ms
+Test Case #8
+Size 200
+Technique: Selection, Time: 6ms
+Technique: Insertion, Time: 40ms
+Technique: Merge,	 Time: 31ms
+Test Case #9
+Size 250
+Technique: Selection, Time: 11ms
+Technique: Insertion, Time: 59ms
+Technique: Merge,	 Time: 39ms
+Test Case #10
+Size 500
+Technique: Selection, Time: 27ms
+Technique: Insertion, Time: 229ms
+Technique: Merge,	 Time: 84ms
+Test Case #11
+Size 1000
+Technique: Selection, Time: 31ms
+Technique: Insertion, Time: 856ms
+Technique: Merge,	 Time: 217ms
+Test Case #12
+Size 2000
+Technique: Selection, Time: 65ms
+Technique: Insertion, Time: 3608ms
+Technique: Merge,	 Time: 504ms
+Test Case #13
+Size 10000
+Technique: Selection, Time: 434ms
+Technique: Insertion, Time: 128212ms
+Technique: Merge,	 Time: 2969ms

@@ -1,0 +1,9 @@
+Test Case #1
+Size 4 Order: Ascending; Technique: Selection
+1 4 5 22 
+Test Case #2
+Size 10 Order: Descending; Technique: Insertion
+31 22 19 15 11 10 8 5 2 1 
+Test Case #3
+Size 3 Order: Descending; Technique: Merge
+3 2 1 

@@ -1,0 +1,3 @@
+Implement Fractional Knapsack 
+Implement Activity Selection 
+Modify Huffman Codes (Left subtree will be 1, instead of 0, and right subtree will be 0 instead of 1 . . . will be discussed in class) . . . In those lines where you have modified the code  // Edited by ROLLNUMBER
